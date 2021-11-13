@@ -10,7 +10,7 @@ namespace tic_tac_toe_2
             Console.WriteLine("Boze ima z pobjeda i n poraza!");
 
             Console.WriteLine(" x |   |   ");
-            Console.WriteLine("   |   |   ");
+            Console.WriteLine("   | o |   ");
             Console.WriteLine("   |   | o ");
         }
     }
